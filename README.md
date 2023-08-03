@@ -65,21 +65,8 @@ Fico à disposição para contribuir em projetos interessantes e fazer parte de 
 
 <div>
 <p>
-📫 <b>Como entrar em contato comigo:</b> Você pode entrar em contato comigo por e-mail Wandersonfoliveira96@gmail.com  ou me encontrar no LinkedIn 
-<a  style=" 
-        .linkedin-button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #0077B5;
-            color: #FFFFFF;
-            text-decoration: none;
-            border-radius: 5px;
-            font-size: 16px;
-        }
-        .linkedin-button:hover {
-            background-color: #005D94;
-        }"
-    href="https://www.linkedin.com/in/wanderson-de-felipe-oliveira-43475115a/">Clik aqui </a>
+📫 <b>Como entrar em contato comigo:</b> Você pode entrar em contato comigo por e-mail <a type="Email" href= Wandersonfoliveira96@gmail.com">Clik aqui </a> Wandersonfoliveira96@gmail.com  ou me encontrar no LinkedIn 
+<a href="https://www.linkedin.com/in/wanderson-de-felipe-oliveira-43475115a/">Clik aqui </a>
     
 </p>
 </div>
@@ -92,6 +79,6 @@ Fico à disposição para contribuir em projetos interessantes e fazer parte de 
 
 <div>
 <p>
-⚡ <b>Curiosidade:</b> Além de ser programador, sou um viajante ávido e adoro explorar novas culturas e culinárias ao redor do mundo.
+⚡ <b>Curiosidade:</b> Além de ser programador, sou um Designer gosto muito de criar artes digitais. 
 </p>
 </div>

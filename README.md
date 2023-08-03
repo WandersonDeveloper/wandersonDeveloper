@@ -65,7 +65,7 @@ Fico à disposição para contribuir em projetos interessantes e fazer parte de 
 
 <div>
 <p>
-📫 <b>Como entrar em contato comigo:</b> Você pode entrar em contato comigo por e-mail <a type="Email" href= Wandersonfoliveira96@gmail.com">Clik aqui </a> Wandersonfoliveira96@gmail.com  ou me encontrar no LinkedIn 
+📫 <b>Como entrar em contato comigo:</b> Você pode entrar em contato comigo por e-mail <a href= Wandersonfoliveira96@gmail.com">Clik aqui </a> Wandersonfoliveira96@gmail.com  ou me encontrar no LinkedIn 
 <a href="https://www.linkedin.com/in/wanderson-de-felipe-oliveira-43475115a/">Clik aqui </a>
     
 </p>

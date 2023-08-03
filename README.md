@@ -47,25 +47,25 @@ Fico à disposição para contribuir em projetos interessantes e fazer parte de 
 
 <div>
 <p>
-👯 <b>Estou procurando colaborar em:</b> Projetos web e de aplicativos móveis que envolvam solução criativa de problemas e soluções inovadoras. Gosto de trabalhar com pessoas que compartilham o mesmo entusiasmo pela tecnologia.
+👯 <b>Estou procurando colaborar em:</b> <br> Projetos web e de aplicativos móveis que envolvam solução criativa de problemas e soluções inovadoras. Gosto de trabalhar com pessoas que compartilham o mesmo entusiasmo pela tecnologia.
 </p>
 </div>
 
 <div>
 <p>
-🤔<b> Estou buscando ajuda com:</b> Explorar novos frameworks e bibliotecas no ecossistema de desenvolvimento web e mobile. Estou aberto a aprender com desenvolvedores experientes e receber insights para melhorar minhas práticas de codificação.
+🤔<b> Estou buscando ajuda com:</b> <br> Explorar novos frameworks e bibliotecas no ecossistema de desenvolvimento web e mobile. Estou aberto a aprender com desenvolvedores experientes e receber insights para melhorar minhas práticas de codificação.
 </p>
 </div>
 
 <div>
 <p>
-💬 <b>Pergunte-me sobre:</b> Qualquer coisa relacionada ao desenvolvimento web, PHP, JavaScript ou minhas experiências com Flutter e Dart. Estou sempre feliz em compartilhar conhecimento e participar de discussões técnicas.
+💬 <b>Pergunte-me sobre:</b> <br> Qualquer coisa relacionada ao desenvolvimento web, PHP, JavaScript ou minhas experiências com Flutter e Dart. Estou sempre feliz em compartilhar conhecimento e participar de discussões técnicas.
 </p>
 </div>
 
 <div>
 <p>
-📫 <b>Como entrar em contato comigo:</b> Você pode entrar em contato comigo por e-mail <a href= "Wandersonfoliveira96@gmail.com">Wandersonfoliveira96@gmail.com </a> ou me encontrar no LinkedIn 
+📫 <b>Como entrar em contato comigo:</b> <br>Você pode entrar em contato comigo por e-mail <a href= "Wandersonfoliveira96@gmail.com">Wandersonfoliveira96@gmail.com </a> ou me encontrar no LinkedIn 
 <a href="https://www.linkedin.com/in/wanderson-de-felipe-oliveira-43475115a/">Clik aqui </a>
     
 </p>
@@ -73,12 +73,12 @@ Fico à disposição para contribuir em projetos interessantes e fazer parte de 
 
 <div>
 <p>
-😄 Pronomes: Ele/dele.
+😄 Pronomes: <br>Ele/dele.
 </p>
 </div>
 
 <div>
 <p>
-⚡ <b>Curiosidade:</b> Além de ser programador, sou um Designer gosto muito de criar artes digitais. 
+⚡ <b>Curiosidade:</b><br> Além de ser programador, sou um Designer gosto muito de criar artes digitais. 
 </p>
 </div>

@@ -1,7 +1,7 @@
 ### Olá Amigos 👋
 
 <p>
-Olá! Meu nome é Wanderson Felipe De Oliveira e sou um entusiasta da programação Web. Com conhecimento em diversas tecnologias, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+ Meu nome é Wanderson Felipe De Oliveira e sou um entusiasta da programação Web. Com conhecimento em diversas tecnologias, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
 Minha experiência abrange as linguagens PHP, JavaScript, C# e também tenho familiaridade com a plataforma Dart e o framework Flutter para desenvolvimento mobile.
 

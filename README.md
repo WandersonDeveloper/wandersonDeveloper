@@ -14,7 +14,7 @@ HTML & CSS: Estruturação e estilização de páginas web.
 Minha experiência abrange desde o desenvolvimento de sistemas web completos até a criação de aplicativos móveis, sempre com foco em entregar código limpo e bem estruturado.
 
 Projetos Recentes
-Atualmente, estou envolvido em projetos empolgantes que utilizam PHP, JavaScript, HTML, e estou me aprofundando cada vez mais no desenvolvimento de aplicativos móveis com Dart e Flutter.
+Atualmente, estou envolvido em projetos empolgantes que utilizam  JavaScript e estou me aprofundando cada vez mais no desenvolvimento de aplicativos móveis com Dart e Flutter.
 
 Aprendizado Contínuo
 Estou sempre em busca de novos conhecimentos e, no momento, estou focado em:

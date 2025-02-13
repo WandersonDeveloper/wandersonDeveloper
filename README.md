@@ -1,95 +1,45 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Página com Tinah Fito</title>
-  <style>
-    /* Reset básico */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+# Olá, eu sou Wanderson Felipe De Oliveira 👋
 
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background: #f4f4f4;
-      color: #333;
-    }
+## Sobre Mim
+Sou um desenvolvedor web apaixonado por tecnologia e inovação, com sólida formação em programação e experiência prática em diversos projetos. Além disso, sou designer, o que me permite criar experiências de usuário únicas e envolventes, combinando estética com funcionalidade.
 
-    /* Header com banner */
-    header {
-      position: relative;
-      width: 100%;
-      height: 300px;
-      background: url('https://via.placeholder.com/1200x300?text=Tinah+Fito') no-repeat center center;
-      background-size: cover;
-    }
+## Habilidades
+- **PHP:** Desenvolvimento de aplicações web robustas.
+- **JavaScript:** Criação de interfaces interativas e responsivas.
+- **C#:** Desenvolvimento de aplicações de alta performance.
+- **Dart & Flutter:** Construção de aplicativos móveis modernos e intuitivos.
+- **HTML & CSS:** Estruturação e estilização de páginas web.
 
-    /* Sobreposição para melhor contraste */
-    header .overlay {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.5);
-    }
+## Experiência & Projetos
+Atualmente, estou envolvido em projetos desafiadores:
+- **Web Development:** Desenvolvimento de sistemas completos com foco em código limpo e organizado.
+- **Mobile Apps:** Criação e aprimoramento de aplicativos móveis usando Dart e Flutter.
 
-    header h1 {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: #fff;
-      font-size: 3rem;
-      text-align: center;
-      z-index: 1;
-    }
+## Aprendizado Contínuo
+Estou sempre buscando evoluir e, no momento, estou me aprofundando em:
+- Conceitos avançados de **JavaScript**
+- Novas tendências em **desenvolvimento web**
 
-    /* Conteúdo principal */
-    main {
-      padding: 20px;
-    }
+## Conecte-se Comigo
+Estou aberto a colaborar em projetos inovadores e desafiadores. Vamos construir algo incrível juntos!
 
-    .content {
-      max-width: 800px;
-      margin: 0 auto;
-      background: #fff;
-      padding: 20px;
-      border-radius: 5px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
+- 📧 [Wandersonfoliveira96@gmail.com](mailto:Wandersonfoliveira96@gmail.com)
+- 🔗 [LinkedIn - Wanderson Felipe De Oliveira](https://www.linkedin.com/in/wandersonfelipedeoliveira)
 
-    .content h2 {
-      margin-bottom: 15px;
-    }
+## Estatísticas do GitHub
 
-    .content p {
-      margin-bottom: 10px;
-      text-align: justify;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <div class="overlay"></div>
-    <h1>Tinah Fito</h1>
-  </header>
+<p align="center">
+  <!-- Gráfico de Estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+</p>
 
-  <main>
-    <div class="content">
-      <h2>Bem-vindo à minha página!</h2>
-      <p>
-        Esta é uma página de exemplo criada para o GitHub, com um banner impactante no início. 
-        Você pode utilizar este template para mostrar seu portfólio, projetos ou qualquer outro conteúdo.
-      </p>
-      <p>
-        Basta personalizar as imagens, textos e cores conforme sua identidade visual.
-      </p>
-    </div>
-  </main>
-</body>
-</html>
+<p align="center">
+  <!-- Gráfico de Linguagens Mais Utilizadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Linguagens mais utilizadas">
+</p>
+
+<p align="center">
+  <!-- Gráfico de Atividade -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=react-dark" alt="Gráfico de Atividades">
+</p>
+

@@ -1,57 +1,92 @@
-# Olá, eu sou Wanderson Felipe De Oliveira 👋
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Experiência Única</title>
+  <style>
+    /* Estilização básica */
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      color: #333;
+      transition: background 0.5s ease;
+    }
+    
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    
+    p {
+      font-size: 1.1em;
+      margin-bottom: 20px;
+    }
+    
+    input {
+      padding: 10px;
+      font-size: 1em;
+      border: none;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      outline: none;
+    }
+    
+    button {
+      padding: 10px 20px;
+      font-size: 1em;
+      border: none;
+      border-radius: 5px;
+      background-color: #333;
+      color: #fff;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    
+    button:hover {
+      background-color: #555;
+    }
+    
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="welcomeMessage">Bem-vindo(a)!</h1>
+  <p id="userPrompt">Digite seu nome para personalizar sua experiência:</p>
+  <input type="text" id="userName" placeholder="Seu nome" />
+  <button id="submitBtn">Enviar</button>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Hello">
-</p>
+  <script>
+    // Seleciona os elementos do DOM
+    const submitBtn = document.getElementById('submitBtn');
+    const userNameInput = document.getElementById('userName');
+    const welcomeMessage = document.getElementById('welcomeMessage');
+    const userPrompt = document.getElementById('userPrompt');
 
-## Sobre Mim
-Sou um desenvolvedor web apaixonado por tecnologia e inovação. Com sólida formação e experiência prática em diversos projetos, estou sempre em busca de aprimorar minhas habilidades e explorar novas ferramentas para criar soluções eficientes e inovadoras.
-
-## 🚀 Tecnologias & Ferramentas
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-## 🛠️ Experiência & Projetos
-- **Desenvolvimento Web:** Criação de aplicações robustas e dinâmicas utilizando PHP e JavaScript.
-- **Aplicações de Alta Performance:** Desenvolvimento de soluções com C#.
-- **Mobile:** Criação de aplicativos modernos e intuitivos com Dart e Flutter.
-- **Design Responsivo:** Estruturação e estilização de páginas web com HTML & CSS.
-
-Atualmente, estou me aprofundando em projetos desafiadores com JavaScript e explorando o universo dos aplicativos móveis com Dart e Flutter.
-
-## 🔭 Atualmente Estou Estudando
-- Conceitos avançados de **JavaScript**
-- Tendências emergentes em **desenvolvimento web**
-- Inovações no desenvolvimento de **aplicativos móveis**
-
-## 📫 Como Me Contatar
-- **Email:** [Wandersonfoliveira96@gmail.com](mailto:Wandersonfoliveira96@gmail.com)
-- **LinkedIn:** [Wanderson Felipe De Oliveira](https://www.linkedin.com/in/wandersonfelipedeoliveira)
-
-## 🎨 Curiosidades
-Além de desenvolver, também sou designer e adoro criar artes digitais. Essa combinação me permite oferecer experiências de usuário únicas e envolventes.
-
-## 📊 Minhas Estatísticas do GitHub
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-    </td>
-    <td>
-      <!-- Gráfico compacto das linguagens mais usadas -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=react-dark" alt="Gráfico de Atividades" />
-    </td>
-  </tr>
-</table>
-
+    // Evento ao clicar no botão
+    submitBtn.addEventListener('click', () => {
+      const name = userNameInput.value.trim();
+      if (name) {
+        // Atualiza a mensagem de boas-vindas com o nome do usuário
+        welcomeMessage.textContent = `Olá, ${name}! Seja bem-vindo(a)!`;
+        userPrompt.textContent = `Que tal explorar nossa experiência personalizada?`;
+        // Altera o fundo para dar um toque visual diferente
+        document.body.style.background = "linear-gradient(135deg, #f6d365, #fda085)";
+        // Esconde o campo de input e o botão após o envio
+        userNameInput.classList.add('hidden');
+        submitBtn.classList.add('hidden');
+      } else {
+        alert('Por favor, digite seu nome.');
+      }
+    });
+  </script>
+</body>
+</html>

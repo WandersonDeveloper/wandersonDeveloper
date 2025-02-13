@@ -37,6 +37,20 @@ Atualmente, estou me aprofundando em projetos desafiadores com **JavaScript** e 
 
 <hr>
 
+## 💻 Stacks que Trabalho
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+</div>
+
+<hr>
+
 ## 🔭 Atualmente Estou Estudando
 
 - Conceitos avançados de **JavaScript**
@@ -61,14 +75,6 @@ Atualmente, estou me aprofundando em projetos desafiadores com **JavaScript** e 
 ## 🎨 Curiosidades
 
 Além de desenvolver, sou apaixonado por design e artes digitais, o que me permite transformar ideias em experiências visuais marcantes e inovadoras.
-
-<hr>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SeuUsuario&theme=radical&no-frame=true&no-bg=true" alt="Trophies">
-</p>
 
 <hr>
 

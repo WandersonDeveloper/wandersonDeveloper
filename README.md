@@ -3,11 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Experiência Única - Apenas HTML & CSS</title>
+  <title>Página com Tinah Fito</title>
   <style>
-    /* Importa a fonte Montserrat */
-    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
-
     /* Reset básico */
     * {
       margin: 0;
@@ -16,92 +13,83 @@
     }
 
     body {
-      font-family: 'Montserrat', sans-serif;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      background: linear-gradient(135deg, #89f7fe, #66a6ff);
-      transition: background 0.5s ease;
-    }
-
-    .container {
-      text-align: center;
-      color: #fff;
-      padding: 20px;
-      border-radius: 10px;
-    }
-
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 20px;
-    }
-
-    p {
-      font-size: 1.2rem;
-      margin-bottom: 20px;
-    }
-
-    /* Esconde o checkbox */
-    #toggle {
-      display: none;
-    }
-
-    /* Estilo do botão (label) */
-    .label-button {
-      display: inline-block;
-      padding: 15px 30px;
-      font-size: 1rem;
-      border-radius: 50px;
-      background: #fff;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background: #f4f4f4;
       color: #333;
-      cursor: pointer;
-      transition: background 0.3s ease, transform 0.3s ease;
-      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
     }
 
-    .label-button:hover {
-      background: #f0f0f0;
-      transform: scale(1.05);
+    /* Header com banner */
+    header {
+      position: relative;
+      width: 100%;
+      height: 300px;
+      background: url('https://via.placeholder.com/1200x300?text=Tinah+Fito') no-repeat center center;
+      background-size: cover;
     }
 
-    /* Estado alternado: quando o checkbox está marcado */
-    #toggle:checked ~ .container {
-      background: linear-gradient(135deg, #f6d365, #fda085);
-      box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+    /* Sobreposição para melhor contraste */
+    header .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
     }
 
-    /* Conteúdo adicional inicialmente oculto */
-    .toggled-message {
-      opacity: 0;
-      max-height: 0;
-      overflow: hidden;
-      transition: opacity 0.5s ease, max-height 0.5s ease;
+    header h1 {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #fff;
+      font-size: 3rem;
+      text-align: center;
+      z-index: 1;
     }
 
-    /* Exibe o conteúdo quando o checkbox está marcado */
-    #toggle:checked ~ .container .toggled-message {
-      opacity: 1;
-      max-height: 200px;
-      margin-top: 20px;
+    /* Conteúdo principal */
+    main {
+      padding: 20px;
+    }
+
+    .content {
+      max-width: 800px;
+      margin: 0 auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .content h2 {
+      margin-bottom: 15px;
+    }
+
+    .content p {
+      margin-bottom: 10px;
+      text-align: justify;
     }
   </style>
 </head>
 <body>
-  <!-- Checkbox oculto para controlar o estado -->
-  <input type="checkbox" id="toggle">
-  
-  <div class="container">
-    <h1>Bem-vindo(a)!</h1>
-    <p>Clique no botão para personalizar sua experiência.</p>
-    <!-- Label atuando como botão -->
-    <label for="toggle" class="label-button">Ativar Experiência</label>
-    
-    <!-- Conteúdo que aparece quando ativado -->
-    <div class="toggled-message">
-      <p>Experiência personalizada ativada!</p>
-      <p>Aproveite a nova aparência e estilo.</p>
+  <header>
+    <div class="overlay"></div>
+    <h1>Tinah Fito</h1>
+  </header>
+
+  <main>
+    <div class="content">
+      <h2>Bem-vindo à minha página!</h2>
+      <p>
+        Esta é uma página de exemplo criada para o GitHub, com um banner impactante no início. 
+        Você pode utilizar este template para mostrar seu portfólio, projetos ou qualquer outro conteúdo.
+      </p>
+      <p>
+        Basta personalizar as imagens, textos e cores conforme sua identidade visual.
+      </p>
     </div>
-  </div>
+  </main>
 </body>
 </html>

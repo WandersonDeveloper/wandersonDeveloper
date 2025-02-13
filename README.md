@@ -1,48 +1,102 @@
-# Wanderson Felipe De Oliveira 👋
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Animação de Gráfico de Barras</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    .skill {
+      margin-bottom: 20px;
+    }
+    .skill h3 {
+      margin: 0 0 5px;
+      font-size: 1rem;
+    }
+    .progress-container {
+      width: 100%;
+      background: #ddd;
+      border-radius: 5px;
+      overflow: hidden;
+    }
+    .progress-bar {
+      height: 25px;
+      width: 0;
+      line-height: 25px;
+      text-align: right;
+      padding-right: 10px;
+      color: #fff;
+      border-radius: 5px;
+      /* A animação utiliza a propriedade customizada --progress */
+      animation: progress 2s ease-out forwards;
+    }
+    /* Cores para cada tecnologia */
+    .php         { background-color: #777BB4; }
+    .javascript  { background-color: #F7DF1E; color: #000; }
+    .csharp      { background-color: #239120; }
+    .dart        { background-color: #0175C2; }
+    .flutter     { background-color: #02569B; }
+    .html5       { background-color: #E34F26; }
+    .css3        { background-color: #1572B6; }
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Hello">
-</div>
+    @keyframes progress {
+      from { width: 0; }
+      /* A largura final é definida via propriedade customizada --progress */
+      to { width: var(--progress); }
+    }
+  </style>
+</head>
+<body>
+  <div class="skill">
+    <h3>PHP (70%)</h3>
+    <div class="progress-container">
+      <div class="progress-bar php" style="--progress: 70%;"></div>
+    </div>
+  </div>
 
-## 🚀 Sobre Mim
-Sou um desenvolvedor web apaixonado por tecnologia e inovação. Combinando habilidades técnicas e criativas, trabalho no desenvolvimento de aplicações web robustas, aplicativos mobile modernos e interfaces de design responsivo. Meu foco é transformar ideias em soluções impactantes e funcionais.
+  <div class="skill">
+    <h3>JavaScript (80%)</h3>
+    <div class="progress-container">
+      <div class="progress-bar javascript" style="--progress: 80%;"></div>
+    </div>
+  </div>
 
-## 💻 Stack Tecnológico
-<div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+  <div class="skill">
+    <h3>C# (60%)</h3>
+    <div class="progress-container">
+      <div class="progress-bar csharp" style="--progress: 60%;"></div>
+    </div>
+  </div>
 
-## 🔧 Projetos & Experiência
-- **Web:** Desenvolvimento de aplicações robustas com PHP, JavaScript e C#.
-- **Mobile:** Criação de aplicativos modernos utilizando Dart e Flutter.
-- **Design:** Criação de interfaces atrativas e responsivas com HTML e CSS.
+  <div class="skill">
+    <h3>Dart (70%)</h3>
+    <div class="progress-container">
+      <div class="progress-bar dart" style="--progress: 70%;"></div>
+    </div>
+  </div>
 
-## 📊 Nível de Proficiência
+  <div class="skill">
+    <h3>Flutter (70%)</h3>
+    <div class="progress-container">
+      <div class="progress-bar flutter" style="--progress: 70%;"></div>
+    </div>
+  </div>
 
-| Tecnologia     | Proficiência (Escala de 20)       |
-|----------------|-----------------------------------|
-| **PHP**        | `██████████████░░░░░░` (70%)       |
-| **JavaScript** | `████████████████░░░░` (80%)       |
-| **C#**         | `████████████░░░░░░░░` (60%)       |
-| **Dart**       | `██████████████░░░░░░` (70%)       |
-| **Flutter**    | `██████████████░░░░░░` (70%)       |
-| **HTML5**      | `██████████████████░░` (90%)       |
-| **CSS3**       | `████████████████░░░░` (80%)       |
+  <div class="skill">
+    <h3>HTML5 (90%)</h3>
+    <div class="progress-container">
+      <div class="progress-bar html5" style="--progress: 90%;"></div>
+    </div>
+  </div>
 
-## 📫 Contato
-- **Email:** [Wandersonfoliveira96@gmail.com](mailto:Wandersonfoliveira96@gmail.com)
-- **LinkedIn:** [Wanderson Felipe De Oliveira](https://www.linkedin.com/in/wandersonfelipedeoliveira)
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Top Languages">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=react-dark" alt="Activity Graph">
-</div>
+  <div class="skill">
+    <h3>CSS3 (80%)</h3>
+    <div class="progress-container">
+      <div class="progress-bar css3" style="--progress: 80%;"></div>
+    </div>
+  </div>
+</body>
+</html>

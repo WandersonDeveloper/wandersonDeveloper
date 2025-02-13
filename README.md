@@ -1,18 +1,15 @@
 # Olá, eu sou Wanderson Felipe De Oliveira 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Olá">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Hello">
 </p>
 
 ## Sobre Mim
+Sou um desenvolvedor web apaixonado por tecnologia e inovação. Com sólida formação e experiência prática em diversos projetos, estou sempre em busca de aprimorar minhas habilidades e explorar novas ferramentas para criar soluções eficientes e inovadoras.
 
-Sou um desenvolvedor web apaixonado por tecnologia e inovação. Tenho experiência em diversos projetos que combinam técnica e criatividade para entregar soluções impactantes e modernas.
-
----
-
-## Tecnologias & Ferramentas
-
-<div align="center">
+## 🚀 Tecnologias & Ferramentas
+<!-- Badges para destacar suas principais skills -->
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -20,44 +17,52 @@ Sou um desenvolvedor web apaixonado por tecnologia e inovação. Tenho experiên
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</div>
+</p>
 
----
+## 🛠️ Experiência & Projetos
+- **Desenvolvimento Web:** Aplicações robustas e dinâmicas utilizando PHP e JavaScript.
+- **Aplicações de Alta Performance:** Soluções desenvolvidas em C#.
+- **Mobile:** Criação de aplicativos modernos e intuitivos com Dart e Flutter.
+- **Design Responsivo:** Estruturação e estilização de páginas web com HTML & CSS.
 
-## Projetos & Experiências
+Atualmente, estou me aprofundando em projetos desafiadores com JavaScript e explorando cada vez mais o universo dos aplicativos móveis com Dart e Flutter.
 
-- **Desenvolvimento Web:** Criação de aplicações robustas com PHP e JavaScript.
-- **Soluções Mobile:** Desenvolvimento de apps com Dart e Flutter.
-- **Design Responsivo:** Implementação de layouts modernos usando HTML & CSS.
-- **Projetos Desafiadores:** Aprofundamento em novas tecnologias e frameworks.
+## 🔭 Atualmente Estou Estudando
+- Conceitos avançados de **JavaScript**
+- Tendências emergentes em **desenvolvimento web**
+- Inovações no desenvolvimento de **aplicativos móveis**
 
----
+## 📫 Como Me Contatar
+- **Email:** [Wandersonfoliveira96@gmail.com](mailto:Wandersonfoliveira96@gmail.com)
+- **LinkedIn:** [Wanderson Felipe De Oliveira](https://www.linkedin.com/in/wandersonfelipedeoliveira)
 
-## Estatísticas do GitHub
+## 🎨 Curiosidades
+Além de desenvolvedor, também sou designer e adoro criar artes digitais. Essa combinação me permite oferecer experiências de usuário únicas e envolventes.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
+## 📊 Minhas Estatísticas do GitHub
+<p align="center">
+  <!-- Gráfico de estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
+<p align="center">
+  <!-- Gráfico de linguagens mais utilizadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+<p align="center">
+  <!-- Gráfico de atividade -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=react-dark" alt="Gráfico de Atividades" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Top Langs">
-</div>
-
-<!-- Substitua "SeuUsuario" pelo seu nome de usuário no GitHub -->
-
----
-
-## Contato
-
-<div align="center">
-  <a href="mailto:Wandersonfoliveira96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/wandersonfelipedeoliveira">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
----
-
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=react-dark" alt="Gráfico de Atividades" />
+    </td>
+  </tr>
+</table>

@@ -45,13 +45,7 @@ Além de desenvolvedor, também sou designer e adoro criar artes digitais. Essa 
   <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
 <p align="center">
-  <!-- Gráfico de linguagens mais utilizadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
-<p align="center">
-  <!-- Gráfico de atividade -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=react-dark" alt="Gráfico de Atividades" />
-</p>
+  <!-- Gráfico de linguagens mais utilizadas --
 
 <table align="center">
   <tr>

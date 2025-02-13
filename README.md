@@ -5,7 +5,7 @@
 </p>
 
 ## Sobre Mim
-Sou um desenvolvedor web apaixonado por tecnologia e inovação. Com sólida formação e experiência prática em diversos projetos, estou sempre em busca de aprimorar minhas habilidades e explorar novas ferramentas para criar soluções eficientes e inovadoras.
+Sou um desenvolvedor web apaixonado por tecnologia e inovação, com sólida formação e experiência prática em diversos projetos. Estou sempre em busca de aprimorar minhas habilidades e explorar novas ferramentas para criar soluções eficientes e inovadoras. Além disso, meu lado designer me permite unir técnica e estética para criar experiências de usuário únicas e envolventes.
 
 ## 🚀 Tecnologias & Ferramentas
 <p align="center">
@@ -21,7 +21,7 @@ Sou um desenvolvedor web apaixonado por tecnologia e inovação. Com sólida for
 ## 🛠️ Experiência & Projetos
 - **Desenvolvimento Web:** Criação de aplicações robustas e dinâmicas utilizando PHP e JavaScript.
 - **Aplicações de Alta Performance:** Desenvolvimento de soluções com C#.
-- **Mobile:** Criação de aplicativos modernos e intuitivos com Dart e Flutter.
+- **Mobile:** Desenvolvimento de aplicativos modernos e intuitivos com Dart e Flutter.
 - **Design Responsivo:** Estruturação e estilização de páginas web com HTML & CSS.
 
 Atualmente, estou me aprofundando em projetos desafiadores com JavaScript e explorando o universo dos aplicativos móveis com Dart e Flutter.
@@ -36,19 +36,22 @@ Atualmente, estou me aprofundando em projetos desafiadores com JavaScript e expl
 - **LinkedIn:** [Wanderson Felipe De Oliveira](https://www.linkedin.com/in/wandersonfelipedeoliveira)
 
 ## 🎨 Curiosidades
-Além de desenvolver, também sou designer e adoro criar artes digitais. Essa combinação me permite oferecer experiências de usuário únicas e envolventes.
+Além de programar, sou apaixonado por design e artes digitais, o que me permite criar experiências impactantes e diferenciadas para os usuários.
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SeuUsuario&theme=radical" alt="Trophies">
+</p>
 
 ## 📊 Minhas Estatísticas do GitHub
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=react-dark" alt="Gráfico de Atividades" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Linguagens mais usadas">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=react-dark" alt="Gráfico de Atividades">
+</p>

@@ -1,93 +1,93 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Gráfico de Barras Estático</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      background: #f5f5f5;
-    }
-    .skill {
-      margin-bottom: 20px;
-    }
-    .skill h3 {
-      margin: 0 0 5px;
-      font-size: 1rem;
-    }
-    .progress-container {
-      width: 100%;
-      background: #ddd;
-      border-radius: 5px;
-      overflow: hidden;
-    }
-    .progress-bar {
-      height: 25px;
-      line-height: 25px;
-      text-align: right;
-      padding-right: 10px;
-      color: #fff;
-      border-radius: 5px;
-    }
-    /* Define as cores e larguras estáticas para cada tecnologia */
-    .php         { background-color: #777BB4; width: 70%; }
-    .javascript  { background-color: #F7DF1E; color: #000; width: 80%; }
-    .csharp      { background-color: #239120; width: 60%; }
-    .dart        { background-color: #0175C2; width: 70%; }
-    .flutter     { background-color: #02569B; width: 70%; }
-    .html5       { background-color: #E34F26; width: 90%; }
-    .css3        { background-color: #1572B6; width: 80%; }
-  </style>
-</head>
-<body>
-  <div class="skill">
-    <h3>PHP (70%)</h3>
-    <div class="progress-container">
-      <div class="progress-bar php"></div>
-    </div>
-  </div>
+# Olá, eu sou Wanderson Felipe De Oliveira 👋
 
-  <div class="skill">
-    <h3>JavaScript (80%)</h3>
-    <div class="progress-container">
-      <div class="progress-bar javascript"></div>
-    </div>
-  </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Hello">
+</p>
 
-  <div class="skill">
-    <h3>C# (60%)</h3>
-    <div class="progress-container">
-      <div class="progress-bar csharp"></div>
-    </div>
-  </div>
+<hr>
 
-  <div class="skill">
-    <h3>Dart (70%)</h3>
-    <div class="progress-container">
-      <div class="progress-bar dart"></div>
-    </div>
-  </div>
+## Sobre Mim
 
-  <div class="skill">
-    <h3>Flutter (70%)</h3>
-    <div class="progress-container">
-      <div class="progress-bar flutter"></div>
-    </div>
-  </div>
+Sou um desenvolvedor web apaixonado por tecnologia e inovação, com sólida formação e experiência prática em diversos projetos. Minha paixão pelo design e pelas artes digitais me permite criar experiências de usuário únicas e impactantes, unindo técnica e criatividade.
 
-  <div class="skill">
-    <h3>HTML5 (90%)</h3>
-    <div class="progress-container">
-      <div class="progress-bar html5"></div>
-    </div>
-  </div>
+<hr>
 
-  <div class="skill">
-    <h3>CSS3 (80%)</h3>
-    <div class="progress-container">
-      <div class="progress-bar css3"></div>
-    </div>
-  </div>
-</body>
-</html>
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</div>
+
+<hr>
+
+## 🛠️ Experiência & Projetos
+
+- **Desenvolvimento Web:** Criação de aplicações robustas e dinâmicas com PHP e JavaScript.
+- **Aplicações de Alta Performance:** Desenvolvimento de soluções com C#.
+- **Mobile:** Criação de aplicativos modernos e intuitivos utilizando Dart e Flutter.
+- **Design Responsivo:** Estruturação e estilização de páginas web com HTML & CSS.
+
+Atualmente, estou me aprofundando em projetos desafiadores com **JavaScript** e explorando o universo dos aplicativos móveis com **Dart** e **Flutter**.
+
+<hr>
+
+## 💻 Stacks que Trabalho
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+</div>
+
+<hr>
+
+## 🔭 Atualmente Estou Estudando
+
+- Conceitos avançados de **JavaScript**
+- Tendências emergentes em **desenvolvimento web**
+- Inovações no desenvolvimento de **aplicativos móveis**
+
+<hr>
+
+## 📫 Contato
+
+<div align="center">
+  <a href="mailto:Wandersonfoliveira96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/wandersonfelipedeoliveira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+<hr>
+
+## 🎨 Curiosidades
+
+Além de desenvolver, sou apaixonado por design e artes digitais, o que me permite transformar ideias em experiências visuais marcantes e inovadoras.
+
+<hr>
+
+## 📊 Minhas Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=react-dark" alt="Activity Graph">
+</div>

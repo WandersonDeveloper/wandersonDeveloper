@@ -39,10 +39,5 @@ Atualmente, estou me aprofundando em projetos desafiadores com JavaScript e expl
 ## 🎨 Curiosidades
 Além de desenvolvedor, também sou designer e adoro criar artes digitais. Essa combinação me permite oferecer experiências de usuário únicas e envolventes.
 
-## 📊 Minhas Estatísticas do GitHub
-<p align="center">
-  <!-- Gráfico de estatísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
 
 

@@ -84,7 +84,7 @@ Atualmente, estou me aprofundando em projetos desafiadores com **JavaScript** e 
 
 A seguir, um gráfico simples representando meu nível de proficiência em cada tecnologia (baseado em uma escala de 10 blocos):
 
-                         | Proficiência    Tecnologia       |
+|                         | Proficiência    Tecnologia       |
 |-----------------|-------------------------------------|
 | **PHP**         | ███████████████████████████████████████████░░░░░░░         (70%) |
 | **JavaScript**  | ██████████████████████████████████████████████░░░░         (80%) | 

@@ -39,12 +39,14 @@ Atualmente, estou me aprofundando em projetos desafiadores com JavaScript e expl
 Além de desenvolver, também sou designer e adoro criar artes digitais. Essa combinação me permite oferecer experiências de usuário únicas e envolventes.
 
 ## 📊 Minhas Estatísticas do GitHub
+
 <table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
     </td>
     <td>
+      <!-- Gráfico compacto das linguagens mais usadas -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
     </td>
     <td>
@@ -52,3 +54,4 @@ Além de desenvolver, também sou designer e adoro criar artes digitais. Essa co
     </td>
   </tr>
 </table>
+

@@ -1,27 +1,16 @@
 # Olá, eu sou Wanderson Felipe De Oliveira 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Hello">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Olá">
 </p>
 
 ## Sobre Mim
 
-Sou um desenvolvedor web apaixonado por tecnologia e inovação, com sólida formação e experiência prática em diversos projetos. Minha paixão pelo design e pelas artes digitais me permite criar experiências de usuário únicas e impactantes, unindo técnica e criatividade.
+Sou um desenvolvedor web apaixonado por tecnologia e inovação. Tenho experiência em diversos projetos que combinam técnica e criatividade para entregar soluções impactantes e modernas.
 
 ---
 
-## 📚 Sumário
-
-- [Tecnologias & Ferramentas](#-tecnologias--ferramentas)
-- [Experiência & Projetos](#-experiência--projetos)
-- [Nível de Proficiência](#-nível-de-proficiencia)
-- [Contato](#-contato)
-- [Curiosidades](#-curiosidades)
-- [Estatísticas do GitHub](#-estatísticas-do-github)
-
----
-
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -35,34 +24,30 @@ Sou um desenvolvedor web apaixonado por tecnologia e inovação, com sólida for
 
 ---
 
-## 🛠️ Experiência & Projetos
+## Projetos & Experiências
 
-- **Desenvolvimento Web:** Criação de aplicações robustas e dinâmicas com PHP e JavaScript.
-- **Aplicações de Alta Performance:** Desenvolvimento de soluções com C#.
-- **Mobile:** Criação de aplicativos modernos e intuitivos utilizando Dart e Flutter.
-- **Design Responsivo:** Estruturação e estilização de páginas web com HTML & CSS.
-
-Atualmente, estou me aprofundando em projetos desafiadores com **JavaScript** e explorando o universo dos aplicativos móveis com **Dart** e **Flutter**.
+- **Desenvolvimento Web:** Criação de aplicações robustas com PHP e JavaScript.
+- **Soluções Mobile:** Desenvolvimento de apps com Dart e Flutter.
+- **Design Responsivo:** Implementação de layouts modernos usando HTML & CSS.
+- **Projetos Desafiadores:** Aprofundamento em novas tecnologias e frameworks.
 
 ---
 
-## 📈 Nível de Proficiência
+## Estatísticas do GitHub
 
-| Tecnologia     | Nível (Escala de 20)                                                       |
-|----------------|---------------------------------------------------------------------------|
-| **PHP**        | ![70%](https://progress-bar.dev/70/?title=PHP)                            |
-| **JavaScript** | ![80%](https://progress-bar.dev/80/?title=JavaScript)                      |
-| **C#**         | ![60%](https://progress-bar.dev/60/?title=C%23)                            |
-| **Dart**       | ![70%](https://progress-bar.dev/70/?title=Dart)                            |
-| **Flutter**    | ![70%](https://progress-bar.dev/70/?title=Flutter)                         |
-| **HTML5**      | ![90%](https://progress-bar.dev/90/?title=HTML5)                           |
-| **CSS3**       | ![80%](https://progress-bar.dev/80/?title=CSS3)                            |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
 
-> **Observação:** As barras de progresso são representações visuais do meu nível de proficiência em cada tecnologia.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Top Langs">
+</div>
+
+<!-- Substitua "SeuUsuario" pelo seu nome de usuário no GitHub -->
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
   <a href="mailto:Wandersonfoliveira96@gmail.com">
@@ -75,24 +60,4 @@ Atualmente, estou me aprofundando em projetos desafiadores com **JavaScript** e 
 
 ---
 
-## 🎨 Curiosidades
 
-Além de desenvolver, sou apaixonado por design e artes digitais. Essa paixão me permite transformar ideias em experiências visuais marcantes e inovadoras.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=react-dark" alt="Activity Graph">
-</div>
-
-<!-- Substitua "SeuUsuario" pelo seu nome de usuário do GitHub -->

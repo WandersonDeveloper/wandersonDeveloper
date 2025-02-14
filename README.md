@@ -34,7 +34,7 @@ Atualmente, estou me aprofundando em projetos desafiadores com JavaScript e expl
 
 ## 📫 Como Me Contatar
 - **Email:** [Wandersonfoliveira96@gmail.com](mailto:Wandersonfoliveira96@gmail.com)
-- **LinkedIn:** [Wanderson Felipe De Oliveira](https://www.linkedin.com/in/wanderson-de-felipe-oliveira-43475115a/))
+- **LinkedIn:** [Wanderson Felipe De Oliveira](https://www.linkedin.com/in/wanderson-de-felipe-oliveira-43475115a/)
 
 ## 🎨 Curiosidades
 Além de desenvolvedor, também sou designer e adoro criar artes digitais. Essa combinação me permite oferecer experiências de usuário únicas e envolventes.
